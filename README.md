@@ -2,7 +2,7 @@
 - A giveaway bot with some requirements and easy to install.
 - It is Easy Use this bot
 - Designed and Tested on Node.js 
-## ⚒ Setup ( In Replit or Glitch ) 
+## ⚒ Setup ( In Replit  ) 
 [![Run on Repl.it](https://repl.it/badge/github/MSVFORYOU/giveaways-bot)](https://repl.it/github/MSVFORYOU/giveaways-bot)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/MSVFORYOU/giveaways-bot)
 
