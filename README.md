@@ -1,4 +1,4 @@
-# Giveaways-bot
+# Giveaway-bot
 - A giveaway bot with some requirements and easy to install.
 - It is Easy Use this bot
 - Designed and Tested on Node.js 
